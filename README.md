@@ -6,7 +6,7 @@
 
 > Projeto simples e responsivo desenvolvido para aplicar conceitos aprendidos nas aulas do Stage 03 da Rocketseat 🚀
 
-> Customizado com o tema do jogo The Last of Us Part II 🎨
+> Customizado com o tema do jogo The Last of Us part II 🎨
 
 ✔ grid layout
 
